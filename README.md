@@ -1,5 +1,12 @@
 # Siem Lite
 
+```text
+╔══════════════════════════════╗
+║          SIEM-LITE            ║
+║  detect · investigate · act   ║
+╚══════════════════════════════╝
+```
+
 SIEM-lite: Log analysis and security incident detection toolkit in Python. Parses log files, detects anomalies, and generates security alerts.
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
@@ -64,4 +71,3 @@ siem-lite report --output security_report.json
 ## License
 
 MIT
-
