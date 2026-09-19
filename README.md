@@ -1,11 +1,11 @@
 # Siem Lite
 
 ```text
-   .--------.
-  /  .--.    \\
- |  ( log )   |   SIEM-LITE
-  \\  '--'    /   detect · investigate · act
-   '--------'
+  ######## ########## ########## ##      ##            ##         ########## ########## ##########
+##             ##     ##         ####  ####            ##             ##         ##     ##        
+  ######       ##     ########   ##  ##  ## ########## ##             ##         ##     ########  
+        ##     ##     ##         ##      ##            ##             ##         ##     ##        
+########   ########## ########## ##      ##            ########## ##########     ##     ##########
 ```
 
 SIEM-lite: Log analysis and security incident detection toolkit in Python. Parses log files, detects anomalies, and generates security alerts.
